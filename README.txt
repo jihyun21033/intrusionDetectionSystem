@@ -1,0 +1,1 @@
+These codes work on Raspberry Pi. The pi camera and demand sensors must exist.
